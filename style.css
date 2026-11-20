@@ -1,48 +1,52 @@
-body {
-  background: #120a1a;
-  color: #eeeeee;
-  max-width: 800px;
-  width: 92%;
-  margin: auto;
-  font-family: sans-serif;
-  line-height: 1.8;
-}
-h1 {
-  color: #ff4d8d;
-  text-align: center;
-  border-bottom: 3px solid #b388ff;
-  padding-bottom: 10px;
-  text-shadow: 0 0 10px #ff4d8d;
-}
-h2 {
-  color: #b388ff;
-  border-left: 6px solid #ff4d8d;
-  padding-left: 10px;
-}
-p {
-  color: #dddddd;
-  border: 1px solid #5c3a6e;
-  background: #1e1029;
-  padding: 12px;
-  border-radius: 6px;
-}
-strong {
-  color: #ff4d8d;
-}
-a {
-  color: #ffd740;
-}
-nav {
-  text-align: center;
-  margin: 20px 0;
-}
-nav a {
-  margin: 0 12px;
-  font-weight: bold;
-}
-img, iframe {
-  display: block;
-  max-width: 100%;
-  margin: 20px auto;
-  border-radius: 8px;
-}
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>魔女裁判の魅力・深掘り編</title>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <h1>🕯️ 魔女裁判の魅力・深掘り編</h1>
+
+  <nav>
+    <a href="index.html">トップ</a>
+    <a href="sub.html">魔女裁判の魅力・深掘り編</a>
+  </nav>
+
+  <p>※このページはネタバレなしです。未プレイの方も安心して読んでください。
+  そして読み終わったら、ぜひ遊んでください。</p>
+
+  <h2>① 二つのパートが生む、最高の緩急</h2>
+  <p>ゲームは大きく<strong>「牢屋敷での生活（探索パート）」</strong>と
+  <strong>「魔女裁判（議論パート）」</strong>の二つで進みます。
+  探索パートでは少女たちと言葉を交わし、少しずつ心の距離が縮まっていく。
+  でも、だからこそ裁判パートが来たときの緊張感が段違いなんです。
+  <strong>仲良くなった分だけ、疑うのが痛い。</strong>この構造が本当にずるい。</p>
+
+  <h2>② 「魔法」×「ミステリ」という発明</h2>
+  <p>普通のミステリなら「人間にこの犯行は不可能だ」で終わる話が、この作品では通用しません。
+  なぜなら、少女たちは魔法を持っているから。
+  <strong>「誰の、どんな魔法なら、この状況を作れるのか？」</strong>
+  ルールそのものを推理するような感覚があって、謎が解けたときの「そういうことか！！」の爆発力がすごいです。</p>
+
+  <h2>③ 13人全員に、ちゃんと「生きている」重みがある</h2>
+  <p>登場する少女たちは、一人ひとりが自分の過去や想いを抱えています。
+  最初は「ちょっと苦手かも」と思った子が、物語が進むにつれて忘れられない存在になる。
+  そして、その子たちが裁かれる側にも、裁く側にもなりうる――
+  <strong>キャラクターを好きになればなるほど、物語が刺さってくる</strong>作品です。</p>
+
+  <h2>④ クリアしても終わらない</h2>
+  <p>一度エンディングを迎えても、新しい視点が見えてきて、物語がまったく違う顔を見せてくれます。
+  「牢屋敷とは何なのか」「魔女とは何なのか」――
+  遊べば遊ぶほど、最初のシーンの意味すら変わって見えてくるはずです。</p>
+
+  <h2>こんな人に全力でおすすめしたい</h2>
+  <p>✅ 推理しながら物語を読むのが好きな人<br>
+  ✅ キャラクターに感情移入して心を揺さぶられたい人<br>
+  ✅ ダークでゴシックな世界観が好きな人<br>
+  ✅ 「最後まで遊んで本当に良かった」と思える作品に出会いたい人</p>
+
+  <p><a href="index.html">◀ トップページへ戻る</a></p>
+</body>
+</html>
