@@ -1,14 +1,38 @@
 body {
-  background: lightcyan;
+  background: #1a1a2e;
+  color: #eeeeee;
   width: 800px;
   margin: auto;
+  font-family: sans-serif;
 }
 h1 {
-  color: maroon;
+  color: #00e5ff;
   text-align: center;
+  border-bottom: 3px solid #00e5ff;
+  padding-bottom: 10px;
+}
+h2 {
+  color: #ff4081;
 }
 p {
-  color: gray;
-  border: 1px solid gray;
+  color: #dddddd;
+  border: 1px solid #555555;
   padding: 10px;
+  border-radius: 6px;
+}
+a {
+  color: #ffd740;
+}
+nav {
+  text-align: center;
+  margin: 20px 0;
+}
+nav a {
+  margin: 0 15px;
+  font-weight: bold;
+}
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
 }
